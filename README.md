@@ -1,6 +1,6 @@
 # 🌐 Asritha Isukapalli – Portfolio
 
-Hi! I’m Asritha – a Senior Software Engineer who loves building scalable systems and solving real-world problems through clean, impactful tech.
+Hi! I’m Asritha – a Senior Software Engineer who loves building scalable systems and solving real-world problems through technology.
 
 This is my personal portfolio website, built using HTML, CSS, and GitHub Pages.
 
@@ -8,7 +8,7 @@ This is my personal portfolio website, built using HTML, CSS, and GitHub Pages.
 
 ## ✨ About Me
 
-- 🔧 Currently a Senior Software Engineer working on scalable systems at ServiceNow
+- 🔧 Currently a Senior Software Engineer working at ServiceNow
 - 💡 Passionate about engineering, system design, and leadership
 - 🧠 Ardent learner exploring ML, AI, and system design
 - 🌍 Based in India, open to global opportunities
